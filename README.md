@@ -1,3 +1,3 @@
 # H.W.5
-Image to html
+Quick Image to html part1
 https://sagorcsarder.github.io/H.W.5/
